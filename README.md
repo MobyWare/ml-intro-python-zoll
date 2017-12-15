@@ -15,7 +15,7 @@ You can learn more about running python code in the Jupyter IDE [here](http://ju
 ### Browser only
 The simplest way to run this sample code is to click the link below. It is served up from [MyBinder.org](http://mybinder.org). It's a cool free open-source software (OSS) environment associated with the OSS project called [binder](https://github.com/binder-project/binder)
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/mobyware/ml-abstractions-intro-python)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mobyware/ml-intro-python-zoll/master)
 
 ### Docker
 If you have Docker installed you can simply run the image using
